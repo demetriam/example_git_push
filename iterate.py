@@ -7,10 +7,13 @@
 # 2. Now for each food in that list, let's be specific about how MUCH Alex likes them.
 # For example, print out "Alex's #1 favorite food is Sushi" and then "Alex's #2 favorite food is Pizza" and so on until you've made an ordered list.
 # This can be done a number of different ways, but the easiest is probably by iterating over each index in the favorite_foods list using a function called "range". Try to find it in the documentation.
-count_fave_food = 0
-for item in favorite_foods:
-  count_fave_food += 1 
-  print("")
+# count_fave_food = 0
+# for item in count_fave_food:
+#   count_fave_food += 1 
+#   print("")
+  
+ 
+x = 3
   
 
   
